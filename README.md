@@ -9,11 +9,18 @@
 
 <br>
 
-[![Yaroslav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogsevko)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+
+<div align="center" width="200px">
+
+![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ogsevko&theme=onedark&hide_border=true)
+
+</div>
 
 <br>
 
 <a align="center" href="https://codewars.com/users/ogsevko">
+  
 ![Codewars Badge](https://www.codewars.com/users/ogsevko/badges/large)
   
 </a>
