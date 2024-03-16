@@ -4,7 +4,7 @@
 
 <div align=center>
   I am a dedicated full-stack developer, specializing in back-end technologies, with over 3 years of professional experience. <br>
-  I enjoy learning new stuff and solving complex problems. <br>
+  I enjoy learning new stuff and solving complex problems<br>
 </div>
 
 <br>
