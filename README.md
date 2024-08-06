@@ -3,10 +3,8 @@
 </h1>
 
 <div align=center>
-  I am a dedicated web developer, specializing in back-end technologies, with 4 years of professional experience.<br>
-  Programming is my passion and I try to do my best every time I take on a new task.<br>
-  I enjoy learning new stuff and solving complex problems.<br>
-  My primary commercial experience lies in JavaScript, particularly utilizing the Moleculer.js framework.<br> 
+  I am a dedicated web developer, specializing in back-end technologies, with 4 years of professional experience. Programming is my passion and I try to do my best every time I take on a new task.<br>
+  I enjoy learning new stuff and solving complex problems. My primary commercial experience lies in JavaScript, particularly utilizing the Moleculer.js framework.<br> 
   Additionally, I have proficiency in TypeScript, which I have employed in various projects.<br>
 </div>
 
