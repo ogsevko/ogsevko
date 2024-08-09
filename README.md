@@ -31,4 +31,8 @@
 
 </div>
 
-<br>
+<a align="center" href="https://codewars.com/users/ogsevko">
+ 
+![Codewars Badge](https://www.codewars.com/users/ogsevko/badges/large)
+  
+</a>
