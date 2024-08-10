@@ -21,6 +21,13 @@
 
 </div>
 
+<div align="center" width="200px">
+
+![MYSQL](https://img.shields.io/badge/-MYSQL-718093?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-718093?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+
+</div>
+
 <br>
 
 ## Stats
