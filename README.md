@@ -17,14 +17,14 @@
 
 <div align="center" width="200px">
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=white&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=white&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=white&logo=node.js&logoColor=3C873A)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 
 </div>
 
 <div align="center" width="200px">
 
-![MYSQL](https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=white&logo=mysql&logoColor=#00758f)
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-008bb9?style=for-the-badge&labelColor=white&logo=postgresql&logoColor=#0064a5)
+![MYSQL](https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#00758f)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-008bb9?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=#0064a5)
 
 </div>
 
