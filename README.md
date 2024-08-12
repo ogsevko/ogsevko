@@ -23,7 +23,7 @@
 
 <div align="center" width="200px">
 
-![MYSQL](https://img.shields.io/badge/-MYSQL-F0DB4F?style=for-the-badge&logo=mysql&logoColor=#00758f)
+![MYSQL](https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&logo=mysql&logoColor=#00758f)
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-718093?style=for-the-badge&logo=postgresql&logoColor=#0064a5)
 
 </div>
