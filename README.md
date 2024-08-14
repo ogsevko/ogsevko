@@ -17,17 +17,17 @@
 
 <div align="center" width="200px">
 
-[![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)]
-[![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)]
-[![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 
 </div>
 
 <div align="center" width="200px">
 
-[![NestJs](https://img.shields.io/badge/-Nest-A2223B?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=A2223B)]
-[![ExpressJs](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=white)]
-[![MoleculerJs](https://img.shields.io/badge/-Moleculer-0e83cd?style=for-the-badge&labelColor=black&logo=moleculer&logoColor=0e83cd)]
+![NestJs](https://img.shields.io/badge/-Nest-A2223B?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=A2223B)
+![ExpressJs](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+![MoleculerJs](https://img.shields.io/badge/-Moleculer-0e83cd?style=for-the-badge&labelColor=black&logo=moleculer&logoColor=0e83cd)
 
 </div>
 
