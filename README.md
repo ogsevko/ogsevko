@@ -40,6 +40,13 @@
 
 <div align="center" width="200px">
 
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
+![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=#52B0E7)
+
+</div>
+
+<div align="center" width="200px">
+
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&labelColor=black&logo=redis&logoColor=#A41E11)
 
 </div>
