@@ -1,7 +1,10 @@
 <h1 align="center">
   Yaroslav Andriienko
-  Back-end developer 
 </h1>
+
+<h2 align="center">
+  Back-end developer 
+</h2>
 
 <div align=center>
   I am a dedicated web developer, specializing in back-end technologies, with 4 years of professional experience.<br> 
@@ -13,8 +16,9 @@
 
 <br>
 
-## Tech stack
-<br>
+<h3 align="center">
+  Tech stack
+</h3>
 
 <div align="center" width="200px">
 
@@ -54,7 +58,9 @@
 
 <br>
 
-## Stats
+<h3 align="center">
+  Stats
+</h3>
 
 <div align="center" width="200px">
 
