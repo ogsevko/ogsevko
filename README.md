@@ -16,9 +16,9 @@
 
 <br>
 
-<h3 align="center">
+<h2 align="center">
   Tech stack
-</h3>
+</h2>
 
 <div align="center" width="200px">
 
@@ -58,9 +58,9 @@
 
 <br>
 
-<h3 align="center">
+<h2 align="center">
   Stats
-</h3>
+</h2>
 
 <div align="center" width="200px">
 
