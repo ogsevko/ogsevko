@@ -52,10 +52,16 @@
 
 </div>
 
+<h3 align="center">
+  ORM
+</h3>
+
 <div align="center" width="200px">
 
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=#52B0E7)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
+![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=#FE0803)
+
 
 </div>
 
