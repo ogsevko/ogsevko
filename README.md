@@ -26,8 +26,8 @@
 
 <div align="center" width="200px">
   
-![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=deno&logoColor=3C873A)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&labelColor=black&logo=node.js&logoColor=#000000)
+![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&labelColor=black&logo=deno&logoColor=#000000)
 
 </div>
 
