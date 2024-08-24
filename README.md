@@ -88,7 +88,7 @@
 </div>
 
 <h3 align="center">
-  Tests
+  Testing
 </h3>
 
 </div>
@@ -96,6 +96,7 @@
 <div align="center" width="200px">
 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=#C21325)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=#FF6C37)
 
 </div>
 
