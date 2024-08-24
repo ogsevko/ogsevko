@@ -26,7 +26,7 @@
 
 <div align="center" width="200px">
   
-![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 
 </div>
 
@@ -36,8 +36,8 @@
 
 <div align="center" width="200px">
 
-![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+  ![Javascript](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+  ![Typescript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 
 </div>
 
@@ -47,9 +47,9 @@
 
 <div align="center" width="200px">
 
-![NestJs](https://img.shields.io/badge/-Nest-A2223B?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=A2223B)
-![ExpressJs](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
-![MoleculerJs](https://img.shields.io/badge/-Moleculer-0e83cd?style=for-the-badge&labelColor=black&logo=moleculer&logoColor=0e83cd)
+  ![NestJs](https://img.shields.io/badge/-Nest-A2223B?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=A2223B)
+  ![ExpressJs](https://img.shields.io/badge/-Express-ffffff?style=for-the-badge&labelColor=black&logo=express&logoColor=white)
+  ![MoleculerJs](https://img.shields.io/badge/-Moleculer-0e83cd?style=for-the-badge&labelColor=black&logo=moleculer&logoColor=0e83cd)
 
 </div>
 
@@ -59,9 +59,9 @@
 
 <div align="center" width="200px">
 
-![MYSQL](https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#00758f)
-![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-008bb9?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=#0064a5)
-![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=#003B57)
+  ![MYSQL](https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#00758f)
+  ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-008bb9?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=#0064a5)
+  ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=#003B57)
 
 </div>
 
@@ -71,19 +71,19 @@
 
 <div align="center" width="200px">
 
-![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=#52B0E7)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
-![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=#FE0803)
+  ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=#52B0E7)
+  ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
+  ![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=#FE0803)
+
+</div>
 
 <h3 align="center">
   NoSQL
 </h3>
 
-</div>
-
 <div align="center" width="200px">
 
-![Redis](https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&labelColor=black&logo=redis&logoColor=#A41E11)
+  ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&labelColor=black&logo=redis&logoColor=#A41E11)
 
 </div>
 
@@ -91,12 +91,11 @@
   Testing
 </h3>
 
-</div>
 
 <div align="center" width="200px">
 
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=#C21325)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=#FF6C37)
+  ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=#C21325)
+  ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=#FF6C37)
 
 </div>
 
@@ -108,14 +107,14 @@
 
 <div align="center" width="200px">
 
-![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ogsevko&theme=onedark&hide_border=true)
-
-<br>
-
-<a align="center" href="https://codewars.com/users/ogsevko">
- 
-![Codewars Badge](https://www.codewars.com/users/ogsevko/badges/large)
+  ![streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ogsevko&theme=onedark&hide_border=true)
   
-</a>
+  <br>
+  
+  <a align="center" href="https://codewars.com/users/ogsevko">
+   
+  ![Codewars Badge](https://www.codewars.com/users/ogsevko/badges/large)
+    
+  </a>
 
 </div>
