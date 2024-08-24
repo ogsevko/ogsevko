@@ -99,6 +99,18 @@
 
 </div>
 
+<h3 align="center">
+  Monitoring
+</h3>
+
+<div align="center" width="200px">
+
+  ![Datadog](https://img.shields.io/badge/-Datadog-632CA6?style=for-the-badge&labelColor=black&logo=datadog&logoColor=#632CA6)
+  ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=for-the-badge&labelColor=black&logo=grafana&logoColor=#F46800)
+
+</div>
+
+
 <br>
 
 <h2 align="center">
