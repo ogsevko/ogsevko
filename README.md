@@ -27,7 +27,6 @@
 <div align="center" width="200px">
   
 ![Nodejs](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&labelColor=black&logo=deno&logoColor=#000000)
 
 </div>
 
@@ -76,12 +75,27 @@
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-FE0803?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=#FE0803)
 
+<h3 align="center">
+  NoSQL
+</h3>
 
 </div>
 
 <div align="center" width="200px">
 
 ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&labelColor=black&logo=redis&logoColor=#A41E11)
+
+</div>
+
+<h3 align="center">
+  Tests
+</h3>
+
+</div>
+
+<div align="center" width="200px">
+
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&labelColor=black&logo=jest&logoColor=#C21325)
 
 </div>
 
