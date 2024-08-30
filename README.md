@@ -77,6 +77,16 @@
 </div>
 
 <h3 align="center">
+  Message brokers
+</h3>
+
+<div align="center" width="200px">
+
+  ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&labelColor=black&logo=rabbitmq&logoColor=#FF6600)
+
+</div>
+
+<h3 align="center">
   Testing
 </h3>
 
