@@ -11,7 +11,6 @@
   Programming is my passion and I try to do my best every time I take on a new task. I enjoy learning new stuff<br>
   and solving complex problems. My primary commercial experience lies in JavaScript, TypeScript and Node.js, particularly<br>  
   utilizing the Moleculer.js framework.<br>
-  in various projects.
 </div>
 
 <br>
