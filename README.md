@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="center">
-  Back-end developer 
+  Back-End Developer 
 </h2>
 
 <div align=center>
