@@ -7,9 +7,10 @@
 </h2>
 
 <div align=center>
-  I am a dedicated web developer, specializing in back-end technologies, with 4 years of professional experience.<br> 
-  Programming is my passion and I try to do my best every time I take on a new task. I enjoy learning new stuff<br>
-  and solving complex problems. My primary commercial experience lies in JavaScript, TypeScript and Node.js (Moleculer.js, NestJS)<br>
+  Back End Developer with 4 years of experience in an American ed-tech company, specializing in integration<br>
+  and automation. Collaborated with a team of developers on key projects, including automating lead<br>
+  distribution and optimizing processes for marketing and sales. Skilled in integrating third-party services and<br>
+  developing scalable systems.
 </div>
 
 <br>
