@@ -44,16 +44,13 @@
 </div>
 
 <h3 align="center">
-  RDBMS
+  RDBMS and ORM
 </h3>
 
 <div align="center" width="200px">
 
   ![MYSQL](https://img.shields.io/badge/-MYSQL-f29111?style=for-the-badge&labelColor=black&logo=mysql&logoColor=#00758f)
-  ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-008bb9?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=#0064a5)
-
-  with
-  
+  ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-008bb9?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=#0064a5)  
   ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?style=for-the-badge&labelColor=black&logo=sequelize&logoColor=#52B0E7)
   ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=for-the-badge&labelColor=black&logo=prisma&logoColor=#2D3748)
 
