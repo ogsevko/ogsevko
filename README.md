@@ -62,7 +62,7 @@
 
 <div align="center" width="200px">
 
-  ![Mongo](https://img.shields.io/badge/-MongoDb-47A248?style=for-the-badge&labelColor=black&logo=mongo&logoColor=#47A248)
+  ![Mongodb](https://img.shields.io/badge/-MongoDb-47A248?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=#47A248)
   ![Redis](https://img.shields.io/badge/-Redis-D82C20?style=for-the-badge&labelColor=black&logo=redis&logoColor=#A41E11)
 
 </div>
