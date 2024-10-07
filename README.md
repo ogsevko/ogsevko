@@ -8,8 +8,8 @@
 
 <div align=center>
   Back End Developer with 4 years of experience, specializing in integration and automation.<br>
-  Collaborated with a team of developers on key projects, including automating lead<br>
-  distribution and optimizing processes for marketing and sales. Skilled in integrating third-party services and<br>
+  Collaborated with a team of developers on key projects, including automating lead distribution<br>
+  and optimizing processes for marketing and sales. Skilled in integrating third-party services and<br>
   developing scalable systems.
 </div>
 
